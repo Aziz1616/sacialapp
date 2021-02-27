@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460197389439",
+    "project_id": "ogretmenimapp-b1c6e",
+    "storage_bucket": "ogretmenimapp-b1c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460197389439:android:76b41e8e1ddd3965304b4a",
+        "android_client_info": {
+          "package_name": "com.example.ogretmenimapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460197389439-jcmftfoe8chm2cgp4jdhau2a3h33oc3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA99_VFWbgBQPycCpN06_ZRYHfSCI5SxtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460197389439-jcmftfoe8chm2cgp4jdhau2a3h33oc3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
