@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:460197389439:android:76b41e8e1ddd3965304b4a",
+        "mobilesdk_app_id": "1:460197389439:android:661cd162ff052556304b4a",
         "android_client_info": {
-          "package_name": "com.example.ogretmenimapp"
+          "package_name": "com.example.ogretmenimaayazilim"
         }
       },
       "oauth_client": [
